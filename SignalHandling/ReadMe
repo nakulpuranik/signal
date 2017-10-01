@@ -1,0 +1,12 @@
+/**
+*
+*  Linux system programming
+*  Process Subsystem
+**/
+
+Assignment : Write a program which demo signal handling
+
+Description :
+This code creates 1 different processes with system call used which are fork(), exec().
+This parent process waits till the child processes complete there execution and will send the signal to child process
+
